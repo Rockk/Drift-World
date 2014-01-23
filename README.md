@@ -1,8 +1,5 @@
-Drift-World
+Drift World Roleplay Development
 ===========
-
-Drift World Development
-
 Here i will display all changes that i've made to Drift World.
 
 v1.2:
