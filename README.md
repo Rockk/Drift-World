@@ -1,4 +1,4 @@
-Drift World Roleplay Development
+Drift World Roleplay
 ===========
 Here i will display all changes that i've made to Drift World.
 
